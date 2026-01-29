@@ -11,11 +11,7 @@ A SharePoint site demonstrating role-based permissions and secure file access fo
   - Policies & Procedures (Sensitive)
   - Forms & Templates (General)
   - Employee Records (Highly Sensitive)
-     Roles / Groups:
-  - **HR Manager** – Full control
-  - **HR Staff** – Edit, limited access
-  - **Finance Team** – Read-only for some libraries
-  - **All Employees** – General read access
+  
     
 ## Roles & Permissions
 
