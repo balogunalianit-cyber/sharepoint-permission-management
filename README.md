@@ -38,8 +38,6 @@ A SharePoint site demonstrating role-based permissions and secure file access fo
 5. **Uploaded Sample Files**
    ![Files](screenshots/files.png)
 
-6. **Tested Access**
-   ![Access Test](screenshots/access-test.png)
    
 ## Outcome
 - Role-based permissions work correctly.
