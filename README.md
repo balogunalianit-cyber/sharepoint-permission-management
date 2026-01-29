@@ -20,3 +20,28 @@ A SharePoint site demonstrating role-based permissions and secure file access fo
 | Policies & Procedures     | Full       | Edit    | Read         | None          |
 | Forms & Templates         | Full       | Edit    | Read         | Read          |
 | Employee Records          | Full       | Edit    | None         | None          |
+
+## Step-by-Step Build
+
+1. **Created SharePoint Site**
+   ![Site Home](screenshots/site-home.png)
+
+2. **Created Document Libraries**
+   ![Libraries](screenshots/libraries.png)
+
+3. **Configured Unique Permissions**
+   ![Permissions](screenshots/permissions.png)
+
+4. **Created SharePoint Groups**
+   ![Groups](screenshots/groups.png)
+
+5. **Uploaded Sample Files**
+   ![Files](screenshots/files.png)
+
+6. **Tested Access**
+   ![Access Test](screenshots/access-test.png)
+   
+## Outcome
+- Role-based permissions work correctly.
+- Sensitive HR data is protected.
+- Demonstrates core SharePoint admin skills.
